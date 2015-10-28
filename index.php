@@ -1,9 +1,1 @@
-<html>
-<head>
-<title>Welcome</title>
-</head>
-<body>
-<div>Hello World</div>
-</body
-</html>
-<?php phpinfo(); ?>
+<?php echo "Hello World"; ?>
